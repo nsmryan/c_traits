@@ -14,5 +14,5 @@ gcc scan.c -o scan
 ```
 
 
-See my blog post on [itscomputersciencetime](itscomputersciencetime.com) for
+See my blog post on [itscomputersciencetime](itscomputersciencetime.com/c-traits) for
 more project details, and see the code for the implementation details.
